@@ -15,6 +15,9 @@ npm run dev
 
 In bitburner, select "Options > Remote API", enter the port of viteburner displays (default: `12525`) and click "Connect".
 
+## API
+
+See [viteburner](https://github.com/Tanimodori/viteburner/blob/main/README.md).
 ## License
 
 [MIT License](LICENSE) © 2022-present Tanimodori
