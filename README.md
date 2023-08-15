@@ -13,7 +13,9 @@ npm i
 npm run dev
 ```
 
-In bitburner, select "Options > Remote API", enter the port of viteburner displays (default: `12525`) and click "Connect".
+In Bitburner, select `⚙ Options` on the bottom-left, go to "Remote API", enter the port that viteburner displays (default: `31337`), and click "Connect".
+
+If you run into issues, make sure that the "API server" is enabled in the menu at the top. Also try picking a different port number and using that in both Bitburner and the `port` property in `vite.config.ts`
 
 ## API
 
